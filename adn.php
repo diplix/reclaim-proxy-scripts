@@ -7,7 +7,7 @@
 	require_once( './config.php' );
 
 	$lang = "de";
-	$count = 10;
+	$count = 11;
 	$userid = $adn_userid; 
 	$apiurl = "https://alpha-api.app.net/stream/0/users/".$userid."/posts?count=".$count."";
 	$embedcode = true;
