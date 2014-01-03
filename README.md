@@ -15,5 +15,3 @@ this works more or less for
 * quote.fm
 
 of course sites like pinboard.in, that offer user’s timelines as RSS don’t need a proxy script and can be parsed by feedwordpress right away.
-
-
